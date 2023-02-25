@@ -9,8 +9,8 @@ My name is Amir Simantov. I empower researchers with the web tools they most nee
 Please feel free to contact me: <wawina@gmail.com>
 
 
-One of the many assets that Amir brings to the table is his unique ability to imagine the unknown capacities and trajectories of a nascent project. As a result of my many deliberations with him, I learned a great deal about what it was I wanted to achieve in the first place and what all more the database can do for me. Amir's intellectual curiosity, his selfless dedication, his uncompromising eye for details, his rigorous documentation, and his ability to think ahead allowed him to become the conscience of the project, often veering me and my team in the right direction and saving us from betraying our own goals and principles. I cannot imagine the PANDiT project without him.
-Prof. Yigal Bronner, the Hebrew University of Jerusalem
+> *One of the many assets that Amir brings to the table is his unique ability to imagine the unknown capacities and trajectories of a nascent project. As a result of my many deliberations with him, I learned a great deal about what it was I wanted to achieve in the first place and what all more the database can do for me. Amir's intellectual curiosity, his selfless dedication, his uncompromising eye for details, his rigorous documentation, and his ability to think ahead allowed him to become the conscience of the project, often veering me and my team in the right direction and saving us from betraying our own goals and principles. I cannot imagine the PANDiT project without him.
+Prof. Yigal Bronner, the Hebrew University of Jerusalem*
 
 
 ## What You Gain
@@ -25,8 +25,8 @@ Whether you are currently doing research, have an extensive collection of findin
 I build an online database by following a properly administered process involving the data curators and the technical team. By joining hands, I ensure that I use the technology skillfully to address the specific requirements of your collection. You are always involved and informed during the process. The process is flexible to your needs, and I will be happy to cater to your needs within the confines of the standing procedures. Listed below are the stages I usually follow in the process of turning your data into a “live” digital database.
 
 
-Amir had a far-sighted vision for our project and meticulously planned out every stage of development. He was accessible and on-task, and he regularly discussed everything with us, down to minor details. We are now thanking him for his insistence on separating structure, content, and presentation and for his patient explanations: we found that Amir designed a database that made it easy to work with complex relations. It was robust and flexible enough to accommodate even unexpected sources of data.
-Prof. Andrew Ollett, University of Chicago
+> *Amir had a far-sighted vision for our project and meticulously planned out every stage of development. He was accessible and on-task, and he regularly discussed everything with us, down to minor details. We are now thanking him for his insistence on separating structure, content, and presentation and for his patient explanations: we found that Amir designed a database that made it easy to work with complex relations. It was robust and flexible enough to accommodate even unexpected sources of data.
+Prof. Andrew Ollett, University of Chicago*
 
 
 ### First Discussion
