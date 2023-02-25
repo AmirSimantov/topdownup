@@ -11,7 +11,7 @@ Please feel free to contact me: <wawina@gmail.com>
 
 > *One of the many assets that Amir brings to the table is his unique ability to imagine the unknown capacities and trajectories of a nascent project. As a result of my many deliberations with him, I learned a great deal about what it was I wanted to achieve in the first place and what all more the database can do for me. Amir's intellectual curiosity, his selfless dedication, his uncompromising eye for details, his rigorous documentation, and his ability to think ahead allowed him to become the conscience of the project, often veering me and my team in the right direction and saving us from betraying our own goals and principles. I cannot imagine the PANDiT project without him.*  
 > 
-> *Prof. Yigal Bronner, the Hebrew University of Jerusalem*
+> *[Prof. Yigal Bronner](http://yigalbronner.huji.ac.il/), the Hebrew University of Jerusalem*
 
 
 ## What You Gain
@@ -28,7 +28,7 @@ I build an online database by following a properly administered process involvin
 
 > *Amir had a far-sighted vision for our project and meticulously planned out every stage of development. He was accessible and on-task, and he regularly discussed everything with us, down to minor details. We are now thanking him for his insistence on separating structure, content, and presentation and for his patient explanations: we found that Amir designed a database that made it easy to work with complex relations. It was robust and flexible enough to accommodate even unexpected sources of data.*
 > 
-> *Prof. Andrew Ollett, University of Chicago*
+> *[Prof. Andrew Ollett](https://salc.uchicago.edu/andrew-ollett), University of Chicago*
 
 
 ### First Discussion
@@ -72,17 +72,17 @@ We use a modern content management system called Drupal, which many universities
 The research fields below are, of course, just examples, and we can build a database with the correct data types that fit your specific data. Both examples involved importing thousands of data records from older databases while keeping the relationships among the content types intact.
 
 ### Culture Heritage Database
-The first example is the Jewish Galicia project – a genealogy and cultural heritage research project. The new database contains no fewer than ten entity types with various relationships among them. There are entity types like people, communities, organizations, buildings, tombstones, and more. The researchers and I did the project in collaboration with the University of Haifa.
+The first example is the [Jewish Galicia project](http://jgaliciabukovina.net/) – a genealogy and cultural heritage research project. The new database contains no fewer than ten entity types with various relationships among them. There are entity types like people, communities, organizations, buildings, tombstones, and more. The researchers and I did the project in collaboration with the University of Haifa.
 Sample:
 
 
 ### Regional History of Medicine
-A yet to fully published, the MidEastMed project []
+A yet to fully published, the [MidEastMed project](https://www.mideastmed.org/) []
 Sample:
 
 
 ### Prosopographical Database for Indic Texts
-Another example is the Pandit project, that gathers online academic knowledge about Indic literature. This new database includes six main content types with dozens of relationships among them, holding more than 100 properties and 50K+ entities. The project is being done in collaboration with the Hebrew University of Jerusalem.
+Another example is the [Pandit project](https://www.panditproject.org/), that gathers online academic knowledge about Indic literature. This new database includes six main content types with dozens of relationships among them, holding more than 100 properties and 50K+ entities. The project is being done in collaboration with the Hebrew University of Jerusalem.
 Sample:
 
 
@@ -98,7 +98,7 @@ Sample from the data model documentation spreadsheet:
 
 ## Contact
 There is no obligation on your part, and after I gain an understanding of your goals, I can give you a brief overview of how your digital database can be done. 
-Please contact me now on wawina@gmail.com and tell me about your project so we can schedule our first video meeting at a time that suits you best.
+Please contact me now on <wawina@gmail.com> and tell me about your project so we can schedule our first video meeting at a time that suits you best.
 
 Of course, I would appreciate it if you share information about my services with your colleagues.
 
