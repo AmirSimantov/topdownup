@@ -63,6 +63,7 @@ liquid:
 
 # Markdown Processors
 kramdown:
+  input: Kramdown
   auto_ids          : true
   entity_output     : as_char
   toc_levels        : [1, 2, 3, 4, 5, 6]
