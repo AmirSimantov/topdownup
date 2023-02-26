@@ -11,10 +11,13 @@ My name is Amir Simantov. I empower researchers with the web tools they most nee
 Please feel free to contact me: <wawina@gmail.com>
 </div>
 
-<div style="float: right">
+<div style="float: right; max-width: 300px;">
+  
 ![amir-simantov](images/amir-simantov.jpg)
+  
 </div>
 
+  
 > *One of the many assets that Amir brings to the table is his unique ability to imagine the unknown capacities and trajectories of a nascent project. As a result of my many deliberations with him, I learned a great deal about what it was I wanted to achieve in the first place and what all more the database can do for me. Amir's intellectual curiosity, his selfless dedication, his uncompromising eye for details, his rigorous documentation, and his ability to think ahead allowed him to become the conscience of the project, often veering me and my team in the right direction and saving us from betraying our own goals and principles. I cannot imagine the PANDiT project without him.*  
 > 
 > *[Prof. Yigal Bronner](http://yigalbronner.huji.ac.il/){:target="_blank" rel="noopener"}, the Hebrew University of Jerusalem*
