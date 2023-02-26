@@ -1,3 +1,4 @@
+![logo](imgages/logo.jpg)
 
 Data Modeling and Website Building in the Digital Humanities
 
