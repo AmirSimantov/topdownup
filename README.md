@@ -1,4 +1,4 @@
-![logo](imgages/logo.jpg)
+![logo](images/logo.png)
 
 Data Modeling and Website Building in the Digital Humanities
 
@@ -21,7 +21,7 @@ Please feel free to contact me: <wawina@gmail.com>
 Whether you are currently doing research, have an extensive collection of findings, or have a vast catalog, you will probably benefit by having a representation of the data online. It will allow you to manage it efficiently, preserve it, and share it with your colleagues or the larger academic community. Today’s technology enables us to use the Internet for gathering data and checking facts, so we learn much more than we used to and faster. Putting your material online will enable approved users to contribute their data to your research. They might also revise and comment on existing data, helping you to point out issues and possibly even correct errors. This type of collaboration is known as crowdsourcing, and it is making inroads in both the social sciences and the arts and humanities. More and more researchers in a variety of fields have already discovered this powerful process. Your online database can become a center of digital knowledge in your field of expertise.
 
 ## Leading Clients
-
+![logo](images/clients.png)
 
 
 ## Work Process
@@ -76,27 +76,27 @@ The research fields below are, of course, just examples, and we can build a data
 ### Culture Heritage Database
 The first example is the [Jewish Galicia project](http://jgaliciabukovina.net/) – a genealogy and cultural heritage research project. The new database contains no fewer than ten entity types with various relationships among them. There are entity types like people, communities, organizations, buildings, tombstones, and more. The researchers and I did the project in collaboration with the University of Haifa.
 Sample:
-
+![logo](images/galicia.png)
 
 ### Regional History of Medicine
 A yet to fully published, the [MidEastMed project](https://www.mideastmed.org/) []
 Sample:
-
+![logo](images/mideastmed.png)
 
 ### Prosopographical Database for Indic Texts
 Another example is the [Pandit project](https://www.panditproject.org/), that gathers online academic knowledge about Indic literature. This new database includes six main content types with dozens of relationships among them, holding more than 100 properties and 50K+ entities. The project is being done in collaboration with the Hebrew University of Jerusalem.
 Sample:
-
+![logo](images/pandit.png)
 
 ### Commentary Comparison in the Italian Renaissance
 A project in progress, "Aristotle’s Physics in the Renaissance" []
 Sample:
-
+![logo](images/aristotle.png)
 
 ### Court cases in medieval Germany
 The researcher and I are on the data modeling phase.
 Sample from the data model documentation spreadsheet:
-
+![logo](images/court.png)
 
 ## Contact
 There is no obligation on your part, and after I gain an understanding of your goals, I can give you a brief overview of how your digital database can be done. 
@@ -108,6 +108,6 @@ Thank you!
 
 Amir Simantov
 
-
+![logo](images/amir-simantov.jpg)
 
 
