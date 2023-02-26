@@ -17,13 +17,17 @@ Please feel free to contact me: <wawina@gmail.com>
 <img src="images/amir-simantov.jpg" alt="amir-simantov" width= "300px" />
 </div>
 
-  
+
+<div style="float: none; clear: all; ">
 > *One of the many assets that Amir brings to the table is his unique ability to imagine the unknown capacities and trajectories of a nascent project. As a result of my many deliberations with him, I learned a great deal about what it was I wanted to achieve in the first place and what all more the database can do for me. Amir's intellectual curiosity, his selfless dedication, his uncompromising eye for details, his rigorous documentation, and his ability to think ahead allowed him to become the conscience of the project, often veering me and my team in the right direction and saving us from betraying our own goals and principles. I cannot imagine the PANDiT project without him.*  
 > 
 > *[Prof. Yigal Bronner](http://yigalbronner.huji.ac.il/){:target="_blank" rel="noopener"}, the Hebrew University of Jerusalem*
 
 <a href="http://yigalbronner.huji.ac.il/" target="_blank">Prof. Yigal Bronner</a>, the Hebrew University of Jerusalem
 
+</div>
+  
+  
 ## What You Gain
 
 Whether you are currently doing research, have an extensive collection of findings, or have a vast catalog, you will probably benefit by having a representation of the data online. It will allow you to manage it efficiently, preserve it, and share it with your colleagues or the larger academic community. Today’s technology enables us to use the Internet for gathering data and checking facts, so we learn much more than we used to and faster. Putting your material online will enable approved users to contribute their data to your research. They might also revise and comment on existing data, helping you to point out issues and possibly even correct errors. This type of collaboration is known as crowdsourcing, and it is making inroads in both the social sciences and the arts and humanities. More and more researchers in a variety of fields have already discovered this powerful process. Your online database can become a center of digital knowledge in your field of expertise.
