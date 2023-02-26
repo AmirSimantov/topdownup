@@ -3,12 +3,17 @@
 Data Modeling and Website Building in the Digital Humanities
 
 
+<div>
 If you are doing research in the humanities or social sciences or have a significant collection of data or images, you need a digital database. I can build it.
 
 My name is Amir Simantov. I empower researchers with the web tools they most need to make an impact on their careers. Together we build digital collections and benefit from crowdsourcing research. I have 18 years of computer programming experience, developing software and building databases. I have also developed and delivered programming courses.
 
 Please feel free to contact me: <wawina@gmail.com>
+</div>
 
+<div style="float: right">
+![amir-simantov](images/amir-simantov.jpg)
+</div>
 
 > *One of the many assets that Amir brings to the table is his unique ability to imagine the unknown capacities and trajectories of a nascent project. As a result of my many deliberations with him, I learned a great deal about what it was I wanted to achieve in the first place and what all more the database can do for me. Amir's intellectual curiosity, his selfless dedication, his uncompromising eye for details, his rigorous documentation, and his ability to think ahead allowed him to become the conscience of the project, often veering me and my team in the right direction and saving us from betraying our own goals and principles. I cannot imagine the PANDiT project without him.*  
 > 
@@ -21,7 +26,7 @@ Please feel free to contact me: <wawina@gmail.com>
 Whether you are currently doing research, have an extensive collection of findings, or have a vast catalog, you will probably benefit by having a representation of the data online. It will allow you to manage it efficiently, preserve it, and share it with your colleagues or the larger academic community. Today’s technology enables us to use the Internet for gathering data and checking facts, so we learn much more than we used to and faster. Putting your material online will enable approved users to contribute their data to your research. They might also revise and comment on existing data, helping you to point out issues and possibly even correct errors. This type of collaboration is known as crowdsourcing, and it is making inroads in both the social sciences and the arts and humanities. More and more researchers in a variety of fields have already discovered this powerful process. Your online database can become a center of digital knowledge in your field of expertise.
 
 ## Leading Clients
-![logo](images/clients.png)
+![clients](images/clients.png)
 
 
 ## Work Process
@@ -77,31 +82,31 @@ The research fields below are, of course, just examples, and we can build a data
 The first example is the [Jewish Galicia project](http://jgaliciabukovina.net/) – a genealogy and cultural heritage research project. The new database contains no fewer than ten entity types with various relationships among them. There are entity types like people, communities, organizations, buildings, tombstones, and more. The researchers and I did the project in collaboration with the University of Haifa.
 
 Sample:
-![logo](images/galicia.png)
+![galicia](images/galicia.png)
 
 ### Regional History of Medicine
 A yet to fully published, the [MidEastMed project](https://www.mideastmed.org/) []
 
 Sample:
-![logo](images/mideastmed.png)
+![mideastmed](images/mideastmed.png)
 
 ### Prosopographical Database for Indic Texts
 Another example is the [Pandit project](https://www.panditproject.org/), that gathers online academic knowledge about Indic literature. This new database includes six main content types with dozens of relationships among them, holding more than 100 properties and 50K+ entities. The project is being done in collaboration with the Hebrew University of Jerusalem.
 
 Sample:
-![logo](images/pandit.png)
+![pandit](images/pandit.png)
 
 ### Commentary Comparison in the Italian Renaissance
 A project in progress, "Aristotle’s Physics in the Renaissance" []
 
 Sample:
-![logo](images/aristotle.png)
+![aristotle](images/aristotle.png)
 
 ### Court cases in medieval Germany
 The researcher and I are on the data modeling phase.
 
 Sample from the data model documentation spreadsheet:
-![logo](images/court.png)
+![court](images/court.png)
 
 ## Contact
 There is no obligation on your part, and after I gain an understanding of your goals, I can give you a brief overview of how your digital database can be done. 
@@ -113,6 +118,5 @@ Thank you!
 
 Amir Simantov
 
-![logo](images/amir-simantov.jpg)
 
 
