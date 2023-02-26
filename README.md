@@ -13,7 +13,7 @@ Please feel free to contact me: <wawina@gmail.com>
 > 
 > *[Prof. Yigal Bronner](http://yigalbronner.huji.ac.il/){:target="_blank" rel="noopener"}, the Hebrew University of Jerusalem*
 
-[Prof. Yigal Bronner](http://yigalbronner.huji.ac.il/){:target="_blank" rel="noopener"}
+<a href="http://yigalbronner.huji.ac.il/" target="_blank">Prof. Yigal Bronner</a>, the Hebrew University of Jerusalem
 
 ## What You Gain
 
