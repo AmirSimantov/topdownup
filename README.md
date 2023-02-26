@@ -3,19 +3,9 @@
 Data Modeling and Website Building in the Digital Humanities
 
 
-<div style="float: left;">
-  
-If you are doing research in the humanities or social sciences or have a significant collection of data or images, you need a digital database. I can build it.
+<div style="float: left;">If you are doing research in the humanities or social sciences or have a significant collection of data or images, you need a digital database. I can build it.<br>My name is Amir Simantov. I empower researchers with the web tools they most need to make an impact on their careers. Together we build digital collections and benefit from crowdsourcing research. I have 18 years of computer programming experience, developing software and building databases. I have also developed and delivered programming courses.<br><br>Please feel free to contact me: <wawina@gmail.com></div>
 
-My name is Amir Simantov. I empower researchers with the web tools they most need to make an impact on their careers. Together we build digital collections and benefit from crowdsourcing research. I have 18 years of computer programming experience, developing software and building databases. I have also developed and delivered programming courses.
-
-Please feel free to contact me: <wawina@gmail.com>
-
-  </div>
-
-<div style="float: right;">  
-<img src="images/amir-simantov.jpg" alt="amir-simantov" width= "300px" />
-</div>
+<div style="float: right;"><img src="images/amir-simantov.jpg" alt="amir-simantov" width= "200px" /></div>
 
 
 <div style="float: none; clear: all; ">
