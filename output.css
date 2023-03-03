@@ -2445,3 +2445,62 @@ input:checked + .toggle-bg {
     line-height: 1;
   }
 }
+
+
+
+/* amir added */
+
+.italic {
+  font-style: italic;
+}
+
+/*
+.align-left {
+  text-align: left;
+}
+*/
+
+.max-width-lg {
+  max-width: 48rem;
+}
+
+/* .max-width-lg-desc {
+  max-width: 60rem;
+} */
+
+.mb-16 {
+  margin-bottom: 4rem;
+}
+
+.uni-img {
+  max-width:200px;
+  background: white !important;
+}
+
+.float-right {
+  float: right;
+  /* padding: 1% 0 2% 3%; */
+  margin: 0% 0 2% 3%;
+}
+
+.profile-image {
+  max-width: 27%;
+}
+
+/* .md\:width-37 {
+  width: 37%;
+}
+
+.lg\:width-27 {
+  width: 27%;
+} */
+
+.bg-shirt-gray {
+  --tw-bg-opacity: 1;
+  background-color: rgb(141 152 182 / var(--tw-bg-opacity));
+}
+
+.pt-28 { /* no only for lg, as there is .lg\:pt-28 */
+  padding-top: 7rem;
+}
+
