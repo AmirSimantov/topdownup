@@ -2513,7 +2513,7 @@ html {
   scroll-behavior: smooth; 
 }
 
-.py-contact { /* for mobile when tapping on the Contact menn item */
-  padding-top: 8rem;
-  padding-bottom: 8rem;  
+.py-contact { /* for mobile when tapping on the Contact menu item */
+  padding-top: 10rem;
+  padding-bottom: 10rem;  
 }
