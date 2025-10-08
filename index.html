@@ -348,5 +348,24 @@
         </div>
     </footer>
     <script src="https://unpkg.com/flowbite@1.4.1/dist/flowbite.js"></script>
+    <script>
+   document.addEventListener('DOMContentLoaded', function() {
+     const menu = document.getElementById('mobile-menu-2');
+     const toggleButton = document.querySelector('[data-collapse-toggle="mobile-menu-2"]');
+     const links = menu.querySelectorAll('a[href^="#"]');
+   
+     links.forEach(link => {
+       link.addEventListener('click', () => {
+         // Close the mobile menu after clicking a link
+         if (menu.classList.contains('block')) {
+           menu.classList.add('hidden');
+           menu.classList.remove('block');
+           toggleButton.setAttribute('aria-expanded', 'false');
+         }
+       });
+     });
+   });
+   </script>
+
 </body>
 </html>
