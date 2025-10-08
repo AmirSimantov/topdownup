@@ -2504,3 +2504,11 @@ input:checked + .toggle-bg {
   padding-top: 7rem;
 }
 
+:root {
+  --header-height: 64px; 
+}
+
+html {
+  scroll-padding-top: var(--header-height);
+  scroll-behavior: smooth; 
+}
