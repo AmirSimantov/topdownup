@@ -2505,7 +2505,7 @@ input:checked + .toggle-bg {
 }
 
 :root {
-  --header-height: 100px;
+  --header-height: 85px;
 }
 
 html {
