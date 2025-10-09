@@ -2518,3 +2518,7 @@ input:checked + .toggle-bg {
   padding-top: 10rem;
   padding-bottom: 10rem;  
 }
+
+em {
+  font-weight: 500;
+}
