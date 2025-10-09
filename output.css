@@ -2507,10 +2507,11 @@ input:checked + .toggle-bg {
 :root {
   --header-height: 70px; /* Fix header covers anchor target upon anchor link navigation.  */
 }
-
-html {
-  scroll-padding-top: var(--header-height);
-  scroll-behavior: smooth; 
+@media (max-width: 1023px) {
+  html {
+    scroll-padding-top: var(--header-height);
+    scroll-behavior: smooth; 
+  }
 }
 
 .py-contact { /* for mobile when tapping on the Contact menu item */
