@@ -2505,7 +2505,7 @@ input:checked + .toggle-bg {
 }
 
 :root {
-  --header-height: 70px; /* Fix header covers anchor target upon anchor link navigation.  */
+  --header-height: 64px; /* Fix header covers anchor target upon anchor link navigation.  */
 }
 @media (max-width: 1023px) {
   html {
